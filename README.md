@@ -58,7 +58,13 @@ Signature: Ensures the token’s integrity and authenticity.
 <img width="1440" alt="Screenshot 2024-07-10 at 8 46 16 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/0df44265-fb02-4221-9eca-94872e5dad8c">
 
 ### 5. Table's
-#### a) User Details Table
+#### a) User-Password Table
+<img width="1440" alt="Screenshot 2024-07-10 at 8 53 24 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/85fade1f-bf34-4a13-ae9b-eced7b227bfe">
+
+
+#### b) Employee Table
+<img width="1440" alt="Screenshot 2024-07-10 at 8 51 30 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/ae8ebfc4-5b4f-492c-81eb-62a9fe16df29">
+
 
 
 
