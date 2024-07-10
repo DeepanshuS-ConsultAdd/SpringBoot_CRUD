@@ -49,9 +49,16 @@ Signature: Ensures the token’s integrity and authenticity.
 ##### OUTPUT
 <img width="1440" alt="Screenshot 2024-07-10 at 8 45 07 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/3cee0539-66db-4892-9588-426542b0a599">
 
-####d) PATCH Operation
+#### d) PATCH Operation
 <img width="1440" alt="Screenshot 2024-07-10 at 8 45 51 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/40e62b9e-ff19-46bd-a9e6-6a99eea66702">
 ##### OUTPUT
+<img width="1440" alt="Screenshot 2024-07-10 at 8 45 59 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/19cf79aa-08b1-44e8-af9e-3f2778088171">
+
+#### e) Delete Operation
+<img width="1440" alt="Screenshot 2024-07-10 at 8 46 16 AM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/0df44265-fb02-4221-9eca-94872e5dad8c">
+
+### 5. Table's
+#### a) User Details Table
 
 
 
