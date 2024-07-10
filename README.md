@@ -15,6 +15,8 @@ Header: Specifies the token type and signing algorithm.
 Payload: Contains the claims, which are statements about an entity (typically the user) and additional data.
 Signature: Ensures the token’s integrity and authenticity.
 
+## Screenshots 
+
 ### 1.Generating Secret key
 <img width="1440" alt="Screenshot 2024-07-09 at 8 43 16 PM" src="https://github.com/DeepanshuS-ConsultAdd/SpringBoot_CRUD/assets/174502313/560f7640-1a5a-4cc6-b11a-c4dd30535068">
 
